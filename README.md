@@ -4,6 +4,8 @@
 ![screen 2](https://github.com/nandini012/OTP-Verification/assets/95355684/fd89bda6-109a-4264-b11f-7f834f0be42e)
 ![Screen 3](https://github.com/nandini012/OTP-Verification/assets/95355684/7048f500-6c99-43a2-b4cb-7eb3f1a37bda)
 
+# WorkFlow Video
+[Otp-Verfication workflow.webm](https://github.com/nandini012/OTP-Verification/assets/95355684/c186d29f-1b64-4f2a-b23b-e27770d10292)
 
 
 
