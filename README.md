@@ -1,6 +1,10 @@
-<!-- ![localhost_3000_ (1)](https://user-images.githubusercontent.com/75136330/212552633-fe138d61-89da-4ece-9497-a6c779e50f33.png)
+# App Screens
 
-![localhost_3000_ (2)](https://user-images.githubusercontent.com/75136330/212552636-ad154d82-2358-4de7-b6b5-c6e68c8b918e.png) -->
+![Screen 1](https://github.com/nandini012/OTP-Verification/assets/95355684/412f2928-5d58-46f6-938d-817c710d450b)
+![screen 2](https://github.com/nandini012/OTP-Verification/assets/95355684/fd89bda6-109a-4264-b11f-7f834f0be42e)
+![Screen 3](https://github.com/nandini012/OTP-Verification/assets/95355684/7048f500-6c99-43a2-b4cb-7eb3f1a37bda)
+
+
 
 
 # Getting Started with Create React App
